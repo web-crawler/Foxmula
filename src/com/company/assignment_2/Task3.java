@@ -19,7 +19,7 @@ public class Task3 {
             hash.add(j);
 
         }
-        System.out.println("Items of set");
+        System.out.println("Items of HashSet");
         Iterator<Integer> j = hash.iterator();
         while (j.hasNext())
             System.out.println(j.next());
