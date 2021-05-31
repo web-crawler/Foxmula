@@ -9,7 +9,7 @@ public class Task1 {
 
         ArrayList<Integer> arrli=new ArrayList<Integer>();
         Scanner sc=new Scanner(System.in);
-        boolean close=false;
+
         System.out.println("enter 0 to exit");
         boolean i=true;
         //int i =sc.nextInt();
